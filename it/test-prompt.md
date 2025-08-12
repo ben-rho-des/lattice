@@ -1,0 +1,1 @@
+Create a well-defined prompt example
