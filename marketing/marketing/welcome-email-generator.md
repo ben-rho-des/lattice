@@ -1,0 +1,1 @@
+Generate a very friendly welcome email for new signups
