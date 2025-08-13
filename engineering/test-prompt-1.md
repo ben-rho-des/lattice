@@ -1,1 +1,1 @@
-Create a prompt example 1
+Create a good prompt example 1
